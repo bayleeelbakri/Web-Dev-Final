@@ -1,0 +1,12 @@
+body{font-family: verdana; 
+    font size: 40ptx;
+    color: white;}
+.bold {font-weight: bold}
+body{background-color: #C3B1E1; font-family: verdana}
+.common{background-color: #CCCCCC;
+    border: solid 2px white; position: absolute}
+.header {top: 5px; left 5px; right 5px; height 100px }
+
+.mainbody{top: 50px; bottom: 100px; left: 200px; right 5px}
+
+.footer{bottom: 10px; height: 65px; left 10px; right 10px; position:fixed}
